@@ -20,13 +20,14 @@ body, html {
 }
 
 .headshot {
-    filter: grayscale(33%);
-    height: 33%;
-    width: 33%;
+    filter: grayscale(33.3%);
+    height: 33.3%;
+    width: 33.3%;
+    box-shadow: 10px 10px;
 }
 
 .clb {
-    font-size: 50px;
+    font-size: 60px;
 }
 
 /* Second image (Portfolio) */
