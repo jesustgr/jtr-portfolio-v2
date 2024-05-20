@@ -15,10 +15,22 @@ body, html {
 
 /* First image (Logo. Full height) */
 .bgimg-1 {
-    background-image: url("sf.jpeg");
-    min-height: 33%;
+    background-image: url("MOSHED-2024-5-15-21-56-21.gif");
+    min-height: 100%;
 }
 
 .headshot {
-    filter: grayscale(50%);
+    filter: grayscale(33%);
+    height: 33%;
+    width: 33%;
 }
+
+.clb {
+    font-size: 50px;
+}
+
+/* Second image (Portfolio) */
+.bgimg-2 {
+    background-image: url("sf.jpeg");
+    min-height: 400px;
+  }
